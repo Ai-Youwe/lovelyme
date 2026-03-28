@@ -1,0 +1,5 @@
+{
+  "name": "MetaFigure",
+  "description": "Dimensionalize yourself with AI-powered 3D avatar generation.",
+  "requestFramePermissions": ["camera"]
+}
